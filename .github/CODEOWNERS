@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-tac-sigstore-architecture.md bcallaway@google.com tracymiranda@users.noreply.github.com
