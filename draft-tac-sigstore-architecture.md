@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+# area: AREA
+# workgroup: WG Working Group
 keyword:
  - software supply chain
  - transparency log
  - certificate authority
 venue:
-  group: WG
-  type: Working Group
-  mail: sigstore-dev@googlegroups.com
-  arch: https://sigstore.dev
-  github: sigstore/architecture-docs
-  latest: https://sigstore.dev/architecture/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: sigstore-dev@googlegroups.com
+#  arch: https://sigstore.dev
+  github: "bobcallaway/architecture-docs"
+  latest: "https://bobcallaway.github.io/architecture-docs/draft-tac-sigstore-architecture.html"
 
 author:
  -
